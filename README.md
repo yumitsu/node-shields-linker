@@ -1,3 +1,5 @@
+![Current focus](http://img.shields.io/badge/focus-prototyping-green.svg)
+
 node-shields-linker
 ===================
 
